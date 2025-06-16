@@ -53,3 +53,5 @@ Models explored and tuned:
 Used `GridSearchCV` to find the best combination of hyperparameters for the XGBoost model.
 
 ##Used Streamlit to present the model
+![image](https://github.com/user-attachments/assets/1be3e7e7-d2fb-4efa-9fed-c7ddee0789ab)
+
