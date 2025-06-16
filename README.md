@@ -54,4 +54,8 @@ Used `GridSearchCV` to find the best combination of hyperparameters for the XGBo
 
 ##Used Streamlit to present the model
 ![image](https://github.com/user-attachments/assets/1be3e7e7-d2fb-4efa-9fed-c7ddee0789ab)
+![image](https://github.com/user-attachments/assets/ed6ce082-1cc7-4a3a-af00-77c649ffb68d)
+![image](https://github.com/user-attachments/assets/87e01efe-8fc8-49de-8acc-05ebe8b2b1f9)
+
+
 
